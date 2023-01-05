@@ -4,37 +4,48 @@
             "id": 1,
             "price":12,
             "name": "Montre 1",
-            "description": "Ceci est une description"
+            "description": "Ceci est la description de la 1ère montre",
+            "image":"https://furansujapon.com/wp-content/uploads/2021/12/black-clover-une-1024x576.jpg"
         },
         {
             "id": 2,
             "price":388,
             "name": "Montre 2",
-            "description": "Ceci est une description"
+            "description": "Ceci est la description de la 2ème montre",
+            "image":"https://thumbs.dreamstime.com/b/belle-for%C3%AAt-tropicale-%C3%A0-l-itin%C3%A9raire-am%C3%A9nag%C3%A9-pour-amateurs-de-la-nature-de-ka-d-ang-36703721.jpg"
+
         },
         {
             "id": 3,
             "price":56,
             "name": "Montre 3",
-            "description": "Ceci est une description"
+            "description": "Ceci est la description de la 3ème montre",
+            "image":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+
         },
         {
             "id": 4,
             "price":42,
             "name": "Montre 4",
-            "description": "Ceci est une description"
+            "description": "Ceci est la description de la 4ème montre",
+            "image":"https://media.istockphoto.com/id/1140180560/fr/photo/explosion-de-poudre-color%C3%A9e-sur-fond-noir.jpg?s=612x612&w=0&k=20&c=8EKPu2s5gLcqb09jSmT0tgrydf9UYLzHm3dtoTm5vfs="
+
         },
         {
             "id": 5,
             "price":111,
             "name": "Montre 5",
-            "description": "Ceci est une description"
+            "description": "Ceci est la description de la 5ème montre",
+            "image":"https://images.ctfassets.net/hrltx12pl8hq/a2hkMAaruSQ8haQZ4rBL9/8ff4a6f289b9ca3f4e6474f29793a74a/nature-image-for-website.jpg?fit=fill&w=480&h=320"
+
         },
         {
             "id": 6,
             "price":20,
             "name": "Montre 6",
-            "description": "Ceci est une description"
+            "description": "Ceci est la description de la 6ème montre",
+            "image":"https://img-19.commentcamarche.net/WNCe54PoGxObY8PCXUxMGQ0Gwss=/480x270/smart/d8c10e7fd21a485c909a5b4c5d99e611/ccmcms-commentcamarche/20456790.jpg"
+
         }
     ]
 }
