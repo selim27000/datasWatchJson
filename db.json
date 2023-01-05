@@ -2,34 +2,39 @@
     "montre": [
         {
             "id": 1,
+            "prix":12,
             "name": "Montre 1",
             "description": "Ceci est une description"
         },
         {
             "id": 2,
+            "prix":388,
             "name": "Montre 2",
             "description": "Ceci est une description"
         },
         {
             "id": 3,
+            "prix":56,
             "name": "Montre 3",
             "description": "Ceci est une description"
         },
         {
             "id": 4,
+            "prix":42,
             "name": "Montre 4",
             "description": "Ceci est une description"
         },
         {
             "id": 5,
+            "prix":111,
             "name": "Montre 5",
             "description": "Ceci est une description"
         },
         {
             "id": 6,
+            "prix":20,
             "name": "Montre 6",
             "description": "Ceci est une description"
         }
     ]
-
 }
