@@ -14,6 +14,21 @@
             "id": 3,
             "name": "Montre 3",
             "description": "Ceci est une description"
+        },
+        {
+            "id": 4,
+            "name": "Montre 4",
+            "description": "Ceci est une description"
+        },
+        {
+            "id": 5,
+            "name": "Montre 5",
+            "description": "Ceci est une description"
+        },
+        {
+            "id": 6,
+            "name": "Montre 6",
+            "description": "Ceci est une description"
         }
     ]
 
