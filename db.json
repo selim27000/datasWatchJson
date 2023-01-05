@@ -1,31 +1,20 @@
 {
-    "posts": [
+    "montre": [
         {
             "id": 1,
-            "title": "Post 1"
+            "name": "Montre 1",
+            "description": "Ceci est une description"
         },
         {
             "id": 2,
-            "title": "Post 2"
+            "name": "Montre 2",
+            "description": "Ceci est une description"
         },
         {
             "id": 3,
-            "title": "Post 3"
+            "name": "Montre 3",
+            "description": "Ceci est une description"
         }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
+
 }
